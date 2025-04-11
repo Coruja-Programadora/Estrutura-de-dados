@@ -51,9 +51,4 @@ Este repositório é dividido em tópicos com anotações detalhadas:
 Quer ajudar a melhorar esse repositório? Fique à vontade para:
 
 - Abrir **issues** com dúvidas ou sugestões.
-- Fazer **pull requests** com melhorias nas anotações.
-
-🎉 Aproveite seus estudos e bons códigos! 😃
-
-
-Esse modelo é bem organizado, inclui divisões claras, emojis para torná-lo mais envolvente e foca na importância das Estruturas de Dados. O que achou? 😊
+- Fazer **pull requests** com melhorias nas anotações!
