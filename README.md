@@ -1,4 +1,4 @@
-# 📚 Anotações sobre Estruturas de Dados
+# 📚 Anotações sobre Estruturas de Dados usando JAVA ☕☕
 
 Bem-vindo ao repositório de **anotações sobre as aulas de Estruturas de Dados**! Aqui você encontrará explicações simples e notas que tornarão o aprendizado mais fácil e acessível.
 
