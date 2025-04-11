@@ -53,14 +53,6 @@ Quer ajudar a melhorar esse repositório? Fique à vontade para:
 - Abrir **issues** com dúvidas ou sugestões.
 - Fazer **pull requests** com melhorias nas anotações.
 
----
-
-## ❤️ Agradecimentos
-
-Agradecemos a todos os colaboradores e professores que tornaram estas anotações possíveis. Seu apoio faz toda a diferença!
-
----
-
 🎉 Aproveite seus estudos e bons códigos! 😃
 
 
